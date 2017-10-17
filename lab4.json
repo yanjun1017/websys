@@ -1,0 +1,41 @@
+{
+	"mySongs": [
+
+		{
+			"title": "Loser",
+			"artist": "Big Bang",
+			"album_name": "D",
+			"release_Date": "2015-06-30",
+			"genre": "PBR&B, Hip-hop", 
+			"link": "http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTtitleX=3",
+			"cover": "song1_cover.JPEG",
+		},
+		{
+			"title": "If You",
+			"artist": "Big Bang",
+			"album_name": "M",
+			"release_Date": "2015-04-30",
+			"genre": "Ballad",
+			"link": "http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTtitleX=3",
+			"cover": "song2_cover.JPEG",
+		},
+		{
+			"title": "Special Person",
+			"artist": "Khalil Fong",
+			"album_name": "Dangerous World",
+			"release_Date": "2014-04-27",
+			"genre": "Popular music", 
+			"link": "http://khalilfong.com/en",
+			"cover": "song3_cover.JPEG",
+		},
+		{
+			"title": "I do",
+			"artist": "Eason Chan",
+			"album_name": "I Do",
+			"release_Date": "2016-09-25",
+			"genre": "Mandopop",
+			"link": "https://www.facebook.com/EasonChanOfficial/",
+			"cover": "song4_cover.JPEG",
+		}
+	]
+}
