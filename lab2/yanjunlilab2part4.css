@@ -1,0 +1,159 @@
+Title:before{
+	height: 50px;
+}
+td{
+	padding-right: 20px;
+	padding-left:10px;
+}
+Title{
+	line-height: 50px;
+	font-weight: bold;
+	font-size: 20px;
+	display: block;
+	border-spacing: 150px;
+	height: 50px;
+	border-width: 0.1px;
+	border-style: solid;
+	font-variant: small-caps;
+}
+td1{
+	padding-left:30px;
+}
+
+*{
+	font-family: times;
+	background: lightblue;
+
+}
+Track_name{
+	padding-left:20px;
+	padding-right: 20px;
+	color:blue;
+	font-size: small;
+
+}
+Artist{
+	padding-left:70px;
+	padding-right: 20px;
+	color:blue;
+	font-size: medium;
+	border-width: 40px;
+}
+Artist1{
+	padding-left:10px;
+	padding-right: 10px;
+	color:blue;
+	font-size: medium;
+	border-width: 40px;
+}
+Artist2{
+	padding-left:75px;
+	padding-right: 0px;
+	color:blue;
+	font-size: medium;
+	border-width: 40px;
+}
+
+Album_Name{
+	padding-left:50px;
+	padding-right: 100px;
+	font-style: italic;
+}
+Album_Name1{
+	padding-left:10px;
+	padding-right: 35px;
+	font-style: italic;
+}
+Album_Name2{
+	padding-left:60px;
+	padding-right: 85px;
+	font-style: italic;
+}
+Release_Date{
+	padding-left: 5px;
+	padding-right: 50px;
+}
+Release_Date1{
+	padding-left: 5px;
+	padding-right: 25px;
+}
+Release_Date2{
+	padding-left: 0px;
+	padding-right: 55px;
+}
+Genre1{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+Genre{
+	padding-right: 10px;
+	padding-left: 0px;
+}
+
+Link_to_the_artist{
+	padding-left:5px;
+	padding-right: 20px;
+
+}
+Link_to_the_artist1{
+	padding-left:45px;
+	padding-right: 20px;
+
+}
+Link_to_the_artist1{
+	padding-left:40px;
+	padding-right: 20px;
+
+}
+Link_to_the_artist3{
+	padding-left:15px;
+	padding-right: 30px;
+
+}
+Album_Cover{
+	padding-left:105px;
+}
+Album_Cover1{
+	padding-left:175px;
+}
+Album_Cover2{
+	padding-left: 5px;
+}
+
+Song1{
+	height: 150px;
+	display: block;
+	border-spacing: 50px;
+	border-width: 0.1px;
+	border-style: solid;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+Song2{
+	height: 150px;
+	display: block;
+	border-spacing: 50px;
+	border-width: 0.1px;
+	border-style: solid;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+Song3{
+	height: 150px;
+	display: block;
+	border-spacing: 50px;
+	border-width: 0.1px;
+	border-style: solid;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+Song4{
+	height: 150px;
+	display: block;
+	border-spacing: 50px;
+	border-width: 0.1px;
+	border-style: solid;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+

@@ -1,0 +1,58 @@
+
+<?xml-stylesheet type="text/css" href="yanjunlilab2part4.css">
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<root_element xmlns:html="http://www.w3.org/1999/xhtml">
+
+
+<SongList>
+	<Title>
+		<td> Track Name </td> 
+		<td> Artist </td> 
+		<td> Album Name </td>
+		<td> Release Date </td> 
+		<td> Genre </td> 
+		<td> Link to the artist's website </td> 
+		<td1> Album Cover </td1> 
+	</Title>
+	<Song1>
+		<Track_name> Loser </Track_name>
+		<Artist>  Big Bang </Artist>
+		<Album_Name> D </Album_Name>
+		<Release_Date1> 2015-06-30 </Release_Date1>
+		<Genre1> PBR&amp;B, Hip-hop </Genre1>
+		<Link_to_the_artist> <html:a href="http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&amp;ATYPE=2&amp;ARTIDX=3">  http://www.ygfamily.com/artist/ </html:a> </Link_to_the_artist>
+		<Album_Cover> <html:img src="https://upload.wikimedia.org/wikipedia/commons/7/74/D_%28Big_Bang_album%29.jpg" width="105" height="105" /></Album_Cover>
+	</Song1>
+	<Song2>
+		<Track_name> If You </Track_name>
+		<Artist>  Big Bang </Artist>
+		<Album_Name> M </Album_Name>
+		<Release_Date2> 2015-04-30 </Release_Date2>
+		<Genre> Ballad </Genre>
+		<Link_to_the_artist1> <html:a href = "http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&amp;ATYPE=2&amp;ARTIDX=3">  http://www.ygfamily.com/artist/ </html:a> </Link_to_the_artist1>
+		<Album_Cover> <html:img class="irc_mi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BigBang_-_M_%28Single_Album%29.jpg/1200px-BigBang_-_M_%28Single_Album%29.jpg"  width="105" height="105" /> </Album_Cover>
+	</Song2>
+	<Song3>
+		<Track_name> Special Person </Track_name>
+		<Artist1> Khalil Fong </Artist1>
+		<Album_Name1> Dangerous World </Album_Name1>
+		<Release_Date> 2014-04-27 </Release_Date>
+		<Genre> Popular music </Genre>
+		<Link_to_the_artist2> <html:a href = "http://khalilfong.com/en">  http://khalilfong.com/en </html:a> </Link_to_the_artist2>
+		<Album_Cover1> <html:img class="irc_mi" src="http://news.getmusicasia.com/wp-content/uploads/%E6%96%B9%E5%A4%A7%E5%90%8C-%E5%8D%B1%E9%9A%AA%E4%B8%96%E7%95%8C-Khalil-Fong-Dangerous-World.jpg" width="105" height="105" /> </Album_Cover1>
+	</Song3>
+	<Song4>
+		<Track_name> I do </Track_name>
+		<Artist2> Eason Chan </Artist2>
+		<Album_Name2> I do </Album_Name2>
+		<Release_Date> 2016-09-25 </Release_Date>
+		<Genre> Mandopop </Genre>
+		<Link_to_the_artist3> <html:a href = "https://www.facebook.com/EasonChanOfficial/"> https://www.facebook.com/EasonChanOfficial/ </html:a> </Link_to_the_artist3>
+		<Album_Cover2>
+			<html:img class="irc_mi" src="https://bigmacky.wordpress.com/files/2009/03/easonh3m.jpg" width="105" height="105" />
+		</Album_Cover2>
+	</Song4>
+</SongList>
+</root_element>
+
+

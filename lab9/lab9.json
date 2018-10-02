@@ -1,0 +1,49 @@
+{
+
+	"Websys":[
+		{
+			"Lectures":[
+				{
+					"Lecture": "Lecture1",
+					"Lecturee":[{
+						"Title": "Course Introduction",
+						"Description": "Review syllabus; Discuss Groups and Term Project",
+						"Link": "https://lms.rpi.edu/bbcswebdav/pid-41634-dt-content-rid-105385_1/xid-105385_1"
+					}]
+				}, 
+				{
+					"Lecture": "Lecture2",
+					"Lecturee":[{
+						"Title": "AMP Stack",
+						"Description": "Start to setup environments",
+						"Link": "https://lms.rpi.edu/bbcswebdav/pid-41634-dt-content-rid-105386_1/xid-105386_1"
+					}]
+				}
+
+			]
+		},
+		{
+			"Labs": [
+				{
+					"Lab": "Lab1",
+					"Labb":[{
+						"Title": "AMP Stack",
+						"Description": "Install phpMyAdmin; Change the Apache Web Server Landing Page; Name-based Virtual Hosts",
+						"Link": "https://lms.rpi.edu/bbcswebdav/pid-24625-dt-content-rid-133198_1/courses/1709_ITWS_2110_00/ITW2110-F17-W3-Lab1-AMPStack.html"
+					}]
+				},
+				{
+					"Lab": "Lab2",
+					"Labb":[{
+						"Title": "AMP Stacksss",
+						"Description": "Semantic HTML; XML; HTML and CSS; XML and CSS",
+						"Link": "https://lms.rpi.edu/bbcswebdav/pid-24628-dt-content-rid-195432_1/courses/1709_ITWS_2110_00/ITWS2110-F17-W4-Lab2-HTML%26CSS%281%29.html"
+					}]
+				}
+
+			]
+		}
+
+	]
+
+}

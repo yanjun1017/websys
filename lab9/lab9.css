@@ -1,0 +1,118 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+header {
+    /*background-color: #96b8e0;*/
+    height: 55px;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+html, body {
+    margin: 0;
+    padding: 10px;
+}
+a{
+    color: hsl(0, 0%, 24%);
+    font-size: 15px;
+    padding-right: 10px;
+}
+a:link {
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+header {
+    position: relative;
+}
+
+header .logo {
+    display: block;
+    text-decoration: none;
+}
+
+header .name {
+    -webkit-font-smoothing: antialiased;
+    font-family: "Museo 100";
+    /*color: #a81e39;*/
+    font-size: 44px;
+    line-height: 90%;
+}
+
+header .tagline {
+    font-family: "Museo Sans 500";
+    /*color: #403a75;*/
+    font-size: 12px;
+    line-height: 100%;
+    text-transform: uppercase;
+}
+h4 {
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  color: #393939;
+  font-weight: 300;
+}
+body{
+  margin: auto;
+  text-align: center;
+  overflow: auto;
+}
+
+#tabs{
+  margin: auto;
+  margin-top: 20px;
+  /*background: lightblue;*/
+  border-width: 5px;
+  border-color: black;
+}
+
+#jquery_jplayer_1{
+  padding-top: 20px;
+}
+
+.ui-tabs-vertical { 
+  width: 55em; 
+}
+.ui-tabs-vertical .ui-tabs-nav { 
+  padding: .2em .1em .2em .2em; float: left; width: 5em; 
+}
+.ui-tabs-vertical .ui-tabs-nav li { 
+  clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0 -1px .2em 0; 
+}
+.ui-tabs-vertical .ui-tabs-nav li a {
+ display:block; 
+}
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active { 
+  padding-bottom: 0; padding-right: .1em; border-right-width: 1px; border-right-width: 1px; 
+}
+.ui-tabs-vertical .ui-tabs-panel { 
+  padding: 1em; float: right; width: 46em;
+}
+

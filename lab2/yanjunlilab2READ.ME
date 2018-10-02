@@ -1,0 +1,47 @@
+Name: Yanjun Li (liy40)
+Assignment: Lab2 
+
+
+Part 1: 
+	In this part of the assignment, I use a table to manage all my datas with a table width of 1250 pixels and a height of 700 pixels. And, the body of the table is divided into 5 row elements described below. 
+		1st element: the title of the information listed on the table
+		2nd element to 5th element: 
+			the information of the 4 songs I like corresponding to the title of the column described on the first row. 
+		I choose this structure is because it will be easier to edit the syntax of each song. 
+		<table>: the table 
+		<body>: the content of the table
+		<tr>: the row element
+		<td>: the element of the individual row
+		<h1>: heading, "the entry at the end"
+
+Part2: 
+	In this part of the assignment, I do almost the same thing as described in Part 1, instead I create a XML file for this time. And, because of XML is an extensible markup language, it cannot organize the elements on a table as HTML. But, I used this kind of markup is for easy modification on Part 4. 
+	<SongList>: the content of the folder 
+	<Title>: the information's title 
+		<td>: the element of the row 
+	<Song1> to <Song4>: the list of songs
+	<Track_Name>: the name of the song
+	<Artist>: the artist of the song
+	<Release_Date>: the release date of the song
+	<Release_Date#> with # as the number, is the element I want to modify individually. 
+	<Genre>: the genre of the song
+	<Link_to_the_artist1>: the link to the artist's page 
+	<Album_Cover>: the album cover
+
+	The markup with the element on the end are the elements I want to modify individually regarding to the margins. 
+
+Part3: 
+	In this part of the assignment, I creat a CSS file to modify the HTML page created in Part I. Beside the assignment described in the assignment webpage, I also change the background color of the webpage of the body and the backgorund, and change the text content of the title. 
+	tr:nth-child with x will goes to the x row of table. By modifying the x element of the "tr", I will able to modify the entire row. 
+	tr:nth-child(x) > td:nth-child(y) will direct to the xth row's yth element of the table, by modifying this, I will be able to modify the single element of the table. 
+	At the end, I add a "h1" element to the HTML file, which will be place at the end of the page as an entry to state the end of the table. 
+
+
+Part4:
+	In this part of the assignment, I used a CSS file to modify the content of the XML file. Since XML can't keep the element of the table as what it should be, I used padding-left, padding-right, padding-top, and padding-down to move the content of the table to where it should be. 
+		padding-left: will help you with the margin on the left
+		padding-right: will help you with the margin on the right
+		padding-top: will help you with the margin on the top of the element
+		padding-down: will help you with the margin on the bottom of the element. 
+		I named the element, so that the elements or an individual element will be modify as what I want it to be. 
+
